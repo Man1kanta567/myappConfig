@@ -1,0 +1,3 @@
+myapp.name=production purpose
+myapp.purpose=to check if the app is in production or not
+myapp.something=this is something to be displayed when the profile is set to production
